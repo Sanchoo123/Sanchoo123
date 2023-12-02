@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sancho-44b8ba286/?originalSubdomain=pt)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/diogosancho5)
 
-![Sancho´s GitHub stats](https://github-readme-stats.vercel.app/api?username=1233455&show_icons=true&theme=radical)
+![Sancho´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanchoo123&show_icons=true&theme=radical)
 
 Languages that I usually work with:
 
