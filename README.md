@@ -1,7 +1,7 @@
 <!-- Banner Personalizado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0057,100:ff7f00&height=180&section=header&text=Diogo%20Sancho&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h3 align="center">💻 Engenheiro Informático | Mestrando na Universidade da Beira Interior</h3>
+<h3 align="center">💻 Engenheiro Informático | A tirar Mestrado na Universidade da Beira Interior</h3>
 <p align="center">
 🎓 Licenciado em Engenharia Informática | 📍 Portugal  
 🚀 Apaixonado por desenvolvimento, inovação e resolução de problemas complexos
